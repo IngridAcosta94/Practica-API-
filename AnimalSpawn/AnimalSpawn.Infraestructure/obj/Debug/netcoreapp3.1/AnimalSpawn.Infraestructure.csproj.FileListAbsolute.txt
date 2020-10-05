@@ -1,0 +1,30 @@
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.deps.json
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csprojAssemblyReference.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfo.cs
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CopyComplete
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.json
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.dev.json
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.genruntimeconfig.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.deps.json
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.json
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.dev.json
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csprojAssemblyReference.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfo.cs
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CopyComplete
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.genruntimeconfig.cache

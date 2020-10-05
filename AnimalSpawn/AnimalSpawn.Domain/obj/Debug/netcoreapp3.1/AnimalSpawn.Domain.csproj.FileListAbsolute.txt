@@ -1,0 +1,18 @@
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\rojas\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\CASA\Music\Cuarto Cuatrimestre\Aplicaciones web orientadas a servicios\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
