@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pmIS14bkW/bgXhysVH5STvp4S//nTvR/YWTatua9sWVRW2upDSRN4gwZxn3znZg13+WFaq/3Ra0jxd6cvh8hw==",
+  "dgSpecHash": "7ECGhCRchizGIhD20X3i4c5b0p/OSr5NRmXI/LP1kRxkAfsvxkelKuAl+cu+z6866ghnusKXoB5ihesw1SPgPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

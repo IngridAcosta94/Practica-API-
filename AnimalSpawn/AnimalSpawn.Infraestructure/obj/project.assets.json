@@ -5891,11 +5891,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
       "projectName": "AnimalSpawn.Infraestructure",
-      "projectPath": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
+      "projectPath": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Infraestructure\\AnimalSpawn.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\ekt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5911,8 +5911,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
-              "projectPath": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
+            "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj": {
+              "projectPath": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj"
             }
           }
         }

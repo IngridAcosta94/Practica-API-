@@ -8,9 +8,9 @@ namespace AnimalSpawn.Infraestructure.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<UserAccount> builder)
         {
-            builder.Property(e => e.Id).ValueGeneratedNever();
+            builder.ToTable("UserAccount", "dbo");
 
-            builder.Property(e => e.IsActive).HasDefaultValueSql("((1))");
+            builder.Property(e => e.Id).ValueGeneratedNever();
 
             builder.Property(e => e.Password)
                 .HasMaxLength(20)

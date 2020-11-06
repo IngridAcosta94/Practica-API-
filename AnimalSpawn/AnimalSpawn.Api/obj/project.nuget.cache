@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgZohGwPFM3g9RViHevqzww1ECIXrIP0FG0sQzUPcOLqjXjxiLO5cL2m/nRkuKbbXP4aNHGZ8cfzEIbz4U3R/Q==",
+  "dgSpecHash": "cFtTJS7U9jhhGvLe5dGGvUIIb0DYRB9XZcz3+YgQ/1GHHwUUGtbhy1hIgYWXxk5YpGvfbm47m5QJmmxi6isTJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekt\\Desktop\\AnimalSpawn (1)\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
+  "projectFilePath": "C:\\Users\\ekt\\source\\repos\\Practica-API-\\AnimalSpawn\\AnimalSpawn.Api\\AnimalSpawn.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekt\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\ekt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

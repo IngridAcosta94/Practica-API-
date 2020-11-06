@@ -1,0 +1,12 @@
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\bin\Debug\netcoreapp3.1\AnimalSapwn.Application.deps.json
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\bin\Debug\netcoreapp3.1\AnimalSapwn.Application.dll
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\bin\Debug\netcoreapp3.1\AnimalSapwn.Application.pdb
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.csprojAssemblyReference.cache
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.AssemblyInfoInputs.cache
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.AssemblyInfo.cs
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.csproj.CoreCompileInputs.cache
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.csproj.CopyComplete
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.dll
+C:\Users\ekt\source\repos\Practica-API-\AnimalSpawn\AnimalSapwn.Application\obj\Debug\netcoreapp3.1\AnimalSapwn.Application.pdb

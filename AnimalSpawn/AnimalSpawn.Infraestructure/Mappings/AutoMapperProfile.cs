@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AnimalSpawn.Infraestructure.Mappings
+namespace AnimalSpawn.Application.Mappings
 {
     public class AutoMapperProfile : Profile
     {
